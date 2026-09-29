@@ -85,7 +85,7 @@ The in-browser prototype **simulates** STT/TTS and the phone-to-phone transport 
 
 | | |
 |---|---|
-| **Team name:** *(to be filled)* | **Team ID:** *(to be filled)* |
+| **Team name:** *StepX* | **Team ID:** *147967* |
 
 ---
 
